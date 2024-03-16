@@ -1,0 +1,7 @@
+URL : https://www.figma.com/file/pKU6PVTXPXM3kpPjXX4Iwm/emgProject?type=design&node-id=6-53&mode=design&t=wYzhiDIJP3doM0VP-0
+
+prices :
+componant 1 : 1$ 
+componant 2 : 2$
+
+  total = 3$
